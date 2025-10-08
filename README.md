@@ -13,4 +13,3 @@
   
  </div>
 
- ![snake gif](https://github.com/PabloPBS/PabloPBS/blob/output/github-contribution-grid-snake.svg)
